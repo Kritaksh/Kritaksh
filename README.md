@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Kritaksh Kartikay Griyaghey
 
-<!--
-**Kritaksh/Kritaksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electrical Engineering Student
+💻 Aspiring Web Developer
+🎬 Video Editor (Instagram Reels & Content)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🔭 Currently learning **Web Development**
+* 💡 I know **Java, C++, Python (Basics)**
+* 🎥 Edited content for **Instagram influencers & Hair Masters Faridabad**
+* 🌱 Focused on building real-world projects
+
+---
+
+## 🛠️ Skills
+
+* 💻 Programming: Java, C++, Python
+* 🎨 Editing: Premiere Pro / CapCut
+* 🌐 Learning: HTML, CSS, JavaScript
+
+---
+
+## 📂 Projects (Coming Soon 🚀)
+ai lawyer 
+
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: [www.linkedin.com/in/kritaksh-kartikay-griyaghey-1885a93ba](http://www.linkedin.com/in/kritaksh-kartikay-griyaghey-1885a93ba)
+
+---
+
+## ⚡ Fun Fact
+
+I mix creativity (editing) with logic (coding) 😎
